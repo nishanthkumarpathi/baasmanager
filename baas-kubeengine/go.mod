@@ -10,7 +10,7 @@ require (
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7 // indirect
 	github.com/spf13/viper v1.4.0
 	k8s.io/api v0.0.0-20190703205437-39734b2a72fe
-	k8s.io/apimachinery v0.0.0-20190703205208-4cfb76a8bf76
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v12.0.0+incompatible // indirect
 )
 
